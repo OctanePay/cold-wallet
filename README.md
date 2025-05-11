@@ -5,7 +5,7 @@ Decentralized cold wallet for the future of finance. Securely manage assets, sup
 
 ### Bitcoin
 - **Features:** Full support for Bitcoin and transactions on forked Bitcoin-based networks.
-- **Supported Networks:** Bitcoin, Bitcoin Cash, Litecoin, Dogecoin, Dash, Bitcoin SV, and more.
+- **Supported Networks:** Bitcoin, Bitcoin Cash.
 - **Web3:** Wallet Standard. (available on Android).
 
 ### Solana
